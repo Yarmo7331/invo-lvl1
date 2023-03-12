@@ -1,0 +1,26 @@
+$color-primary: #0f162d;
+$primary-pink: #ca56ff;
+$secondary-pink: rgba(202, 87, 255, 0.2);
+$primary-blue: #6c7cff;
+$secondary-blue: rgba(108, 124, 255, 0.2);
+$primary-turqoise: #2affff;
+$secondary-turqoise: rgba(42, 255, 255, 0.2);
+$primary-yellow: #fff629;
+$secondary-yellow: rgba(255, 246, 41, 0.2);
+$color-white: #ffffff;
+$color-tiles: #272d42;
+
+
+:root {
+    --color-primary: #{$color-primary};
+    --primary-pink: #{$primary-pink};
+    --secondary-pink: #{$secondary-pink};
+    --primary-blue: #{$primary-blue};
+    --secondary-blue: #{$secondary-blue};
+    --primary-turqoise: #{$primary-turqoise};
+    --secondary-turqoise: #{$secondary-turqoise};
+    --primary-yellow: #{$primary-yellow};
+    --secondary-yellow: #{$secondary-yellow};
+    --color-white: #{$color-white};
+    --color-tiles: #{$color-tiles};
+}
